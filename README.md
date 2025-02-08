@@ -58,6 +58,7 @@ py PyPassGen.py        # Windows
 ## Contributing  
 Contributions are welcome. Feel free to fork the repo, open an issue, or submit a pull request.  
 
+I have to give credit where credit is due. The options Idea I got from one of friends (add username if on github) seeing their password generator. I didn't have special characters, or easy to remember options before. 
 ---
 
 ## License  
