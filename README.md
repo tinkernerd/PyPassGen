@@ -1,7 +1,3 @@
-Here’s your updated README with the installation section changed to cloning or downloading the repo:
-
----
-
 # PyPassGen  
 A Simple Python Password Generator  
 
@@ -62,7 +58,3 @@ Contributions are welcome. Feel free to fork the repo, open an issue, or submit 
 
 ## License  
 [MIT License](LICENSE)  
-
----
-
-This version now includes instructions for cloning the repo or downloading it manually. Let me know if you need any changes!
